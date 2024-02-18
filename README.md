@@ -9,3 +9,4 @@ This notebook contains a case study on a simulated geospatial data for cost for 
     5. Act (A/B testing and iteration)
     6. Deploy and monitor
     
+You can find the full data here https://drive.google.com/file/d/18g4dHkaXgIqx4uf7lmusEjQ6RaJV5Bxc/view?usp=sharing
